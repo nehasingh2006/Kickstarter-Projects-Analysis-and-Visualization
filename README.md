@@ -17,6 +17,7 @@ We will visually describe the different features related to projects. This data 
 
 * [Dataset from Kaggle] “Kickstarter Projects” by Mickaël Mouillé. It has more than 300,000 records from 2010 to 2018.
 
+
 ### Lessons
 
 * For performing descriptive data analysis and visualization, we will perform data preprocessing, which will include checking the data types, checking for missing data or duplicates data. We will do data wrangling by calculating the day of the week, month in which the project was launched and calculate campaign duration using feature like launched and deadline date. By plotting different types of graphs, we will be learning about the dominating features for the success or failure of projects launched on
